@@ -221,12 +221,6 @@ pytesseract>=0.3.9
 - [x] Evaluation question processing
 - [x] answers.json output
 
-✅ **Submission Requirements**
-- [x] Public GitHub repository
-- [x] Complete code with documentation
-- [x] Setup and run instructions
-- [x] Video walkthrough (2-3 minutes)
-
 ## 🤝 Contact & Discussion
 
 **Author**: Dipak Jadhav
