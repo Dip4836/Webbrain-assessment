@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+pillow
+pytesseract
+python-dotenv

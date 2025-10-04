@@ -1,0 +1,7 @@
+qid,question,expected_contains,source_hint
+1,What is the refund window?,30 days,refunds.md
+2,Which product supports IP67?,Widget X,products.md
+3,First step if login fails?,reset the password,troubleshoot_ocr.png
+4,What feature was added in Release 2.3?,vector search,release_ocr.png
+5,What discount can Service Plus get on annual billing?,15%,products.md
+6,Provide the canary code string.,canary:,onboarding.md
